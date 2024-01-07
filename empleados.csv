@@ -1,0 +1,7 @@
+usuario,password,nombre_completo,grupo
+smxR01,1234,Usuario 1 de Recursos,Recursos
+smxR02,SmXR02,Usuario 2 de Recursos,Recursos
+smx2,SmX,admin,Administradores
+smxA01,sMxA01,Usuario 1 de Almacen,Almacen
+smxA02,sMxA02,Usuario 2 de Almacen,Almacen
+smxA03,sMxA03,Usuario 3 de Almacen,Almacen
